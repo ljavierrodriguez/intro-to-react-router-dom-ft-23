@@ -18,8 +18,6 @@ const Shop = () => {
     // hooks que nos permite acceder a las parametos en la url
     const params = useParams()
 
-
-
     return (
         <>
             <div>Shop</div>
